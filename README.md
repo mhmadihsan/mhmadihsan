@@ -1,5 +1,5 @@
-<h1 align="center">Hello, Muhammad Ihsan</h1>
-<h3 align="center">Life Long Learning its my motto</h3>
+<h1 align="center">Hello, I'am Muhammad Ihsan </h1>
+<h3 align="center">Lifelong Learning it's my motto</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
