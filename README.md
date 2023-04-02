@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'am Muhammad Ihsan </h1>
-<h3 align="center">Indonesia <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Animated-Flag-Indonesia.gif" alt="mhmad_ihsan" height="30" width="40" /> </h3>
+<h1 align="center">Muhammad Ihsan </h1>
+<h3 align="center">I am Indonesia <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Animated-Flag-Indonesia.gif" alt="mhmad_ihsan" height="30" width="40" /> </h3>
 
 
 <h3 align="left">Connect with me:</h3>
